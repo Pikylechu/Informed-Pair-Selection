@@ -11,10 +11,15 @@ Each experiment has been completed using Python 2.7 and Keras version 1.2.0 - th
 Each python file corresponds to an algorithm discussed in the paper. To consolidate the names of the algorithm, a key is provided below.
 
   Base = Base
+  
   Base_Ordered = Base*
+  
   Dyne = DynE
+  
   Dyne_Ordered = DynE*
+  
   Dynee = DynEE
+  
   Dynee_Ordered = DynEE*
 
 We have also attached here the LMRD dataset used, as well as our specific Doc2Vec model created and used to achieve the results discussed in the paper. 
