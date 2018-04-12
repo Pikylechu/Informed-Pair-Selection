@@ -25,5 +25,7 @@ Each python file corresponds to an algorithm discussed in the paper. To consolid
 We have also attached here the LMRD dataset used, as well as our specific Doc2Vec model created and used to achieve the results discussed in the paper. 
 
 Though we have not included the MNIST or SelfBACK datasets in this repository, these are easily available at the following sources:
+
   MNIST - Load from Keras
+  
   SelfBACK - https://github.com/selfback/activity-recognition
